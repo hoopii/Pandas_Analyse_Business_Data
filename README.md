@@ -9,10 +9,13 @@ Perform EDA with Python-Pandas to solve business questions
 
 Basic Steps in this Project: 
 1. Perform data cleaning and data quality processing
-2. Merge tables to generate a dataset for data analysis
-3. perform explorative data analysis techniques to answer the business questionns
-4. Use data visualization techniques to convey the message
-5. Prepare a presentation together with the Data Analytics team for the company bord
+3. Merge tables to generate a dataset for data analysis
+4. perform explorative data analysis techniques to answer the business questionns
+5. Use data visualization techniques to convey the message
+6. Prepare a presentation together with the Data Analytics team for the company bord
+
+Files in this repository: 
+
 
 To do here: 
 - put in description of columns for datasets
