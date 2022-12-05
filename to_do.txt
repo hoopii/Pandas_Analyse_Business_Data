@@ -2,6 +2,9 @@ to do pandas:
 
 - put in description of columns for datasets; description of variables 
 - check notebooks (again) 
-	--> integrate notebooks pres_rmh and presentation and initial explorations to one 
+	--> go through code from Guoying
+	--> integrate notebooks initial exploration and presentation
+	--> comment out code and interpret results graphs
 	--> think about using my own cleaned files 
+	--> adapt our presentation
 - Write Readme file
