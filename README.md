@@ -2,6 +2,7 @@
 Perform EDA with Python-Pandas to solve business questions
 
 
+
 ![](tools_skills.png "Tools, skills and steps for the project").
 
 
