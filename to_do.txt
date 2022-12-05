@@ -1,0 +1,7 @@
+to do pandas: 
+
+- put in description of columns for datasets; description of variables 
+- check notebooks (again) 
+	--> integrate notebooks pres_rmh and presentation and initial explorations to one 
+	--> think about using my own cleaned files 
+- Write Readme file
