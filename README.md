@@ -39,5 +39,15 @@ To contribute to the stratetic decision on discounting we have to get answers on
 
 
 ## Files in this repository: 
-
+- [Description of dataset: tables and columns](../main/description_tables_columns.txt)
+- [Notebook for Data Cleaning and Data Quality Assessment](../main/data-cleaning-and-merging.ipynb)      
+- [Notebook for Explorative Data Analysis and Visualizations](../main/EDA_for_sales-data.ipynb)  
+- [CSV file brands raw data](../main/brands.csv)  
+- [CSV file brands cleaned](../main/brands_cleaned.csv)
+- [CSV file orders raw data](../main/orders.csv)  
+- [CSV file orders cleaned](../main/orders_cleaned.csv)
+- [CSV file orderlines raw data](../main/orderlines.csv)  
+- [CSV file orderlines cleaned](../main/orderlines_cleaned.csv)
+- [CSV file products raw data](../main/products.csv)  
+- [CSV file products cleaned](../main/products_cleaned.csv)
 
