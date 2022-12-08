@@ -1,22 +1,31 @@
 # Analyse Business Data with Pandas
 Perform EDA with Python-Pandas to solve business questions
 
+![](picture_project.jpg)
+
+
 
 ## Use Case
-
-
+Using internal sales data on products being offered and placed orders from an e-commerce tech comppany we have to contribute to the business question whether or not it's beneficial to discount products. The data includes placed orders from 2017 until March 2018
 
 ## Goal 
-Analyse sales data and find answers to the following business questions: 
 
-1. How do product categories differ in terms of revenue, popularity through time etc. 
+To contribute to the stratetic decision on discounting we have to get answers on some more specific aspects: 
+- How products should be classified into different categories to simplify reports and analysis.
+      
+      How do product categories differ in terms of revenue, popularity through time etc. 
+      
 - Are there any seasonal patterns (holidays, weekend, special days...) detectable? 
+- What is the distribution of product prices across different categories.
+- How many products are being discounted.
+- How big are the offered discounts as a percentage of the product prices.
+- How seasonality and special dates (Christmas, Black Friday) affect sales.
+- How data collection could be improved. 
+- Provdie a discount strategy: 
 
-
-2. Provide a discount strategy
-- Analyse what has happened when discounts have been given.
-- Are there differences in revenue based on the size of discount
-- Predict what will happen if more discounts are given
+      Analyse what has happened when discounts have been given.
+      Are there differences in revenue based on the size of discount
+      Predict what will happen if more discounts are given
 
 
 ## Dataset
