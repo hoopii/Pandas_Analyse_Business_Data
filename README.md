@@ -1,9 +1,7 @@
 # Analyse Business Data with Pandas
-#### Perform EDA with Python-Pandas to solve Business Questions
+Perform EDA with Python-Pandas to solve Business Questions
 
 ![](picture_project.png)
-
-
 
 ## Use Case
 Using internal sales data on products being offered and placed orders from an e-commerce tech comppany we have to contribute to the business question whether or not it's beneficial to discount products. The data includes placed orders from 2017 until March 2018. 
@@ -33,7 +31,7 @@ To contribute to the stratetic decision on discounting we have to get answers on
 
 
 ## Basic Steps in this Project: 
-1. Perform data cleaning and data quality processing
+1. Perform data cleaning processing and data quality assessment
 3. Merge tables to generate a dataset for data analysis
 4. perform explorative data analysis techniques to answer the business questionns
 5. Use data visualization techniques to convey the message
