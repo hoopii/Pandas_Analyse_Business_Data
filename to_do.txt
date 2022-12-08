@@ -1,13 +1,15 @@
-to do pandas: 
-
+to do for update repository: 
+ 
+- write Readme File
 - put in description of columns for datasets; description of variables 
 - check notebooks (again) 
-	--> comment out code and interpret results graphs
-	--> think about using my own cleaned files 
-	--> adapt our presentation
-    --> look again at graph which shows discount status on total price(143)
-    --> error in first graph under Exploring Revenue over time (164)
-- Write Readme file
+	--> comment out code and interpret results and graphs
+	--> clean the code: 
+		- indentation 
+		- functions
+		- etc.
 - do further analysis: 
+	  --> Analysis on discount
         --> Show evolution for the amount of orders in different states (i.e. completed, cancelled etc...) for each month. Each state 
         should have it's own line in different color
+- adapt our presentation and put it in repository
