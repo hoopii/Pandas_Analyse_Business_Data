@@ -4,12 +4,18 @@ to do for update repository:
 - put in description of columns for datasets; description of variables 
 - check notebooks (again) 
 	--> comment out code and interpret results and graphs
-	--> clean the code: 
+	--> https://realpython.com/documenting-python-code/ (Guide on how to document my code)
+
+	--> clean the code:
+		- https://peps.python.org/pep-0008/ (PEP 8 Style Guide for Python Code) 
 		- indentation 
 		- functions
 		- etc.
+	--> make better visualizations: 
+		- Make them interactive: https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426
+		- Make them more baeatiful with seaborns colour palettes
 - do further analysis: 
 	  --> Analysis on discount
         --> Show evolution for the amount of orders in different states (i.e. completed, cancelled etc...) for each month. Each state 
         should have it's own line in different color
-- adapt our presentation and put it in repository
+- adapt our presentation and put it in repository to show skills of storytelling
