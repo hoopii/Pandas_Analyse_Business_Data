@@ -1,7 +1,7 @@
 # Analyse Business Data with Pandas
 Perform EDA with Python-Pandas to solve business questions
 
-
+![](picture_project.jpg)
 
 
 
