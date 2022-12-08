@@ -1,6 +1,9 @@
 # Analyse Business Data with Pandas
 Perform EDA with Python-Pandas to solve business questions
 
+{"a":5,"d":"B","h":"www.canva.com","c":"DAFUNunkzJs","i":"QqQFECTsUaS8FtVY6m0Z6w","b":1670538365294,"A?":"B","A":[{"A":164.4299469331848,"B":305.8650684639143,"D":1058.0082411970495,"C":714.1555628080084,"A?":"I","a":{"B":{"A":{"A":"MAEPFmoHON8","B":1}}}}],"B":1920,"C":1080}
+
+
 
 ## Use Case
 Using internal sales data on products being offered and placed orders from an e-commerce tech comppany we have to contribute to the business question whether or not it's beneficial to discount products. The data includes placed orders from 2017 until March 2018
