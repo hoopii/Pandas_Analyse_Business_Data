@@ -1,15 +1,15 @@
 # Analyse Business Data with Pandas
-Perform EDA with Python-Pandas to solve Business Questions
+#### Perform EDA with Python-Pandas to solve Business Questions
 
 ![](picture_project.png)
 
 
 
 ## Use Case
-Using internal sales data on products being offered and placed orders from an e-commerce tech comppany we have to contribute to the business question whether or not it's beneficial to discount products. The data includes placed orders from 2017 until March 2018
+Using internal sales data on products being offered and placed orders from an e-commerce tech comppany we have to contribute to the business question whether or not it's beneficial to discount products. The data includes placed orders from 2017 until March 2018. 
+The data appears to have some inconsistencies — it must have been corrupted. So it has to be inspected, evaluated and cleaned carefully before analysis. But time is running. The company board does not have time to lose and wants business insights as soon as possible.  
 
 ## Goal 
-
 To contribute to the stratetic decision on discounting we have to get answers on some more specific aspects: 
 - How products should be classified into different categories to simplify reports and analysis.
       
@@ -26,10 +26,6 @@ To contribute to the stratetic decision on discounting we have to get answers on
       Analyse what has happened when discounts have been given.
       Are there differences in revenue based on the size of discount
       Predict what will happen if more discounts are given
-
-
-## Dataset
-
 
 ## Skills/Tools
 
