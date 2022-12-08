@@ -1,7 +1,7 @@
 # Analyse Business Data with Pandas
 Perform EDA with Python-Pandas to solve business questions
 
-{"a":5,"d":"B","h":"www.canva.com","c":"DAFUNunkzJs","i":"QqQFECTsUaS8FtVY6m0Z6w","b":1670538365294,"A?":"B","A":[{"A":164.4299469331848,"B":305.8650684639143,"D":1058.0082411970495,"C":714.1555628080084,"A?":"I","a":{"B":{"A":{"A":"MAEPFmoHON8","B":1}}}}],"B":1920,"C":1080}
+
 
 
 
