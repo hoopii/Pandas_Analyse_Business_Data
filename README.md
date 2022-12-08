@@ -7,6 +7,16 @@ Perform EDA with Python-Pandas to solve business questions
 
 
 ## Goal 
+Analyse sales data and find answers to the following business questions: 
+
+1. How do product categories differ in terms of revenue, popularity through time etc. 
+- Are there any seasonal patterns (holidays, weekend, special days...) detectable? 
+
+
+2. Provide a discount strategy
+- Analyse what has happened when discounts have been given.
+- Are there differences in revenue based on the size of discount
+- Predict what will happen if more discounts are given
 
 
 ## Dataset
