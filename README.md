@@ -19,6 +19,7 @@ To contribute to the stratetic decision on discounting we have to get answers on
 - How seasonality and special dates (Christmas, Black Friday) affect sales.
 - How data collection could be improved. 
 - Provdie a discount strategy: 
+
       Analyse what has happened when discounts have been given.
       Are there differences in revenue based on the size of discount
       Predict what will happen if more discounts are given
